@@ -1,3 +1,4 @@
+[![HackMD documents](/badge.svg)](/@yukai/Yukaii-Docs.zh-tw)
 ASP.NET Docs
 ============
 
